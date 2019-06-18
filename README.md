@@ -11,4 +11,6 @@ Check out [the project name](https://projectname.com)
 - Log out
 - Drop Down
 
+Here's a preview for the app:
+
 ![SCREEN SHOTS](screenshot.jpg)
